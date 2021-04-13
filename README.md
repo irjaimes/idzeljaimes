@@ -2,4 +2,4 @@
 
 My portfolio website
 
-[Deployed App](https://irjaimes.github.io/idzeljaimes)
+[Deployed URL](https://irjaimes.github.io/idzeljaimes)
